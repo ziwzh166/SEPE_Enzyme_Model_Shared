@@ -4,7 +4,7 @@ This repo contains the model files and corresponding Livelink matlab script with
 ## Authors 
 
 - Ziwen Zhao [@ziwzh166](https://github.com/ziwzh166)
-- Nikolaos Kostopoulos [@ ]( )
+- Nikolaos Kostopoulos [@ngkostop ](https://github.com/ngkostop)
 - Sagar Ganguli [@gangulisagar](https://github.com/gangulisagar)
 - Alina Sekretareva*[@alina-sekretareva](https://github.com/alina-sekretareva)
 
