@@ -18,4 +18,4 @@ Please make sure you have the following modules available in your COMSOL Multiph
 ## To start in COMSOL Multiphysics
 You can directly open the .mph file in COMSOL Multiphysics of folder /Comsol, the model is default set for catalase. If you want to change the enzyme, please change the parameters in the model accordingly.
 ## Basic parameter setting
-You can check the description in paper for the detail of the geometry. 
+You can check the description in paper for the detail of each data.  
