@@ -1,6 +1,6 @@
 # NIE_Enzyme_Model_Shared
-It's a model of COMSOL Multiphysics we illustrated in the paper 
-This repo contains the model files and corresponding Livelink matlab script with the random walk script for the enzyme and electrode surface distance calculation.
+This github repository contains the COMSOL Multiphysics model we illustrated in our paper "Single-Entity Protein Electrochemistry of Diffusion-Limited Enzymes". 
+It consists of the model files and corresponding Livelink matlab script with the random walk script for the enzyme and electrode surface distance calculation.
 ## Authors 
 
 - Ziwen Zhao [@ziwzh166](https://github.com/ziwzh166)
