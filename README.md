@@ -12,7 +12,8 @@ It consists of the model files and corresponding Livelink Matlab script with the
 ## Installation 
 
 Please make sure you have the following modules available in your COMSOL Multiphysics:
-``` Chemical Species Transport
+```COMSOL Multiphysics
+    Chemical Species Transport
     Mathematics
     Livelink for MATLAB
 ```
