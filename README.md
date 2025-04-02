@@ -28,3 +28,5 @@ CalI_linelink(5/1000)
 ## Random walk script
 The random walk script is used to calculate the distance between the enzyme and the electrode surface. The script is written in MATLAB and can be run in MATLAB. The script will generate ten random walks at once, meanwhile at which step on which trajectory that enzyme collides on the electrode is printed and you can choose the number of the cell to see the corresponding trajectory of the enzyme. you can perform the parametric study in COMSOL by changing the parameter x simulated in the script to output the corresponding current output in COMSOL or use the generated trajectory in a loop to calculate the current by CalI_linelink in MATLAB. it is suggested using try and catch in the loop to avoid the error COMSOL can not select the enzyme diffusion channel since the dimension is small.
 
+## New version
+Latest version uploaded on 2025-04-03
